@@ -82,6 +82,6 @@ Krishnetwork/syn_ixbot is a ✨ _special_ ✨ repository because its README.md (
 
 ---
 
- [TELEGRAM GROUP](https://t.me/+9U8Td9WZ2dk1ZGU1).
+ [TELEGRAM GROUP](https://t.me/Krishnetwork).
 
 ---
