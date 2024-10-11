@@ -13,7 +13,7 @@ Krishnetwork/syn_ixbot is a ✨ _special_ ✨ repository because its README.md (
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/KRISHtg/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Krishnetwork/count.svg" />
 </p>
 
 
