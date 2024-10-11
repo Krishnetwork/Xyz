@@ -53,7 +53,7 @@ KRISHtg/queenmusicbot is a ✨ _special_ ✨ repository because its README.md (t
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/Krishnetwork/AnonXMusic && cd AnonXMusic
+   gh repo clone Krishnetwork/Xyz && cd xyz
    ```
 6. **Install Requirements**
    ```bash
