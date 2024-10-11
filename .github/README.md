@@ -8,7 +8,7 @@
 ### 🍁 𝗩𝗜𝗦𝗜𝗧𝗢𝗥𝗦 🍁
 
 <!--
-KRISHtg/queenmusicbot is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+Krishnetwork/syn_ixbot is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 
 <p align="center">
