@@ -4,6 +4,7 @@ from KrishXmusic.core.git import git
 from KrishXmusic.core.userbot import Userbot
 from KrishXmusic.misc import dbb, heroku
 
+from SafoneAPI import SafoneAPI
 from .logging import LOGGER
 
 dirr()
@@ -11,7 +12,8 @@ git()
 dbb()
 heroku()
 
-app = Hotty()
+app = DAXX()
+api = SafoneAPI()
 userbot = Userbot()
 
 
@@ -25,4 +27,3 @@ Resso = RessoAPI()
 Telegram = TeleAPI()
 YouTube = YouTubeAPI()
 
-APP = "BRANDED_KUDI_BOT"  # connect music api key "Dont change it"
