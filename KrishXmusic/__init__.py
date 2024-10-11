@@ -1,4 +1,4 @@
-from KrishXmusic.core.bot import Hotty
+from KrishXmusic.core.bot import hotty
 from KrishXmusic.core.dir import dirr
 from KrishXmusic.core.git import git
 from KrishXmusic.core.userbot import Userbot
