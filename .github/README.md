@@ -24,7 +24,7 @@ Krishnetwork/syn_ixbot is a ✨ _special_ ✨ repository because its README.md (
     ─「ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KRISHtg/KrishXmusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/krishnetwork/xyz"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 </p>
   <img src="https://te.legra.ph/file/0f37a7c706b597e4ce5fa.jpg">
