@@ -11,7 +11,7 @@ async def admin_check(message: Message) -> bool:
 
     if message.from_user.id in [
         777000,  # Telegram Service Notifications
-        6534087733,  # GroupwcgbrandedBot
+        1087968824,  # GroupAnonymousBot
     ]:
         return True
 
@@ -27,3 +27,4 @@ async def admin_check(message: Message) -> bool:
         return False
     else:
         return True
+        
